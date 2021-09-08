@@ -18,5 +18,5 @@ forma de exibição da imagem, deixando tudo que não é laranja em tons de cinz
 Imagem obtida a partir do arquivo "RemoveSkyAndGrass.java". Neste arquivo, fiz o caminho inverso, em vez de focar na cor laranja, decidi remover o azul (céu)
 e o verde (folhas)
 
-"ghost.jpeg"
+##"ghost.jpeg"
 E por fim, decidi salvar essa imagem, pois durante o processo, por algum motivo, foi processado esse padrão que parece um rosto.
